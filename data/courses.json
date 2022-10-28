@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "title": "HTML",
+        "img": "https://i.ibb.co/zHY3nSh/w3-html5-ar21.png",
+        "description": "all websites use HTML — even this one. It's a fundamental part of every web developer's toolkit. HTML provides the content that gives web pages structure, by using elements and tags, you can add text, images, videos, forms, and more. Learning HTML basics is an important first step in your web development journey and an essential skill for front- and back-end developers.",
+        "price": "200",
+        "rating": 4.5,
+        "pdfURL":""
+    },
+    {
+        "id": "02",
+        "title": "CSS",
+        "img": "https://i.ibb.co/27nNgCb/css3.jpg",
+        "description": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies like Flexbox and CSS Grid as well as the Sass pre-compiler. This course includes hours of both learning & studying sections along with real life projects. Stop having to rely on frameworks like Bootstrap for your user interface and learn how to create your own layouts and utility classes to build custom responsive websites and app UIs.",
+        "price": "150",
+        "rating": 4.5,
+        "pdfURL":""
+    },
+    {
+        "id": "03",
+        "title": "React",
+        "img": "https://i.ibb.co/M6zQP5M/react.jpg",
+        "description": "This short course will cover basic and core concepts that you need to know to get up and running with ReactJS.React JS is a Javascript library for building user interfaces. It's flexible, fast, easy to learn and fun to work with. ReactJS is designed to make the process of building modular, reusable user interface components simple and intuitive. ",
+        "price": "250",
+        "rating": 5.0,
+        "pdfURL":""
+    },
+    {
+        "id": "04",
+        "title": "JavaScript",
+        "img": "https://i.ibb.co/1Z6tj7M/image.jpg",
+        "description": "If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing the language of the browser is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser.",
+        "price": "250",
+        "rating": 4.9,
+        "pdfURL":""
+    },
+    {
+        "id": "05",
+        "title": "Python",
+        "img": "https://i.ibb.co/T4G8PSs/ab06a958-pythonlogo.png",
+        "description": "This Python course will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you'll use the technologies learned throughout the Specialization to design and create your own  applications for data retrieval, processing, and visualization.",
+        "price": "190",
+        "rating": 4.7,
+        "pdfURL":""
+    },
+    {
+        "id": "06",
+        "title": "C++",
+        "img": "https://ibb.co/n3w1T8p",
+        "description": "The course is designed for those who don't have any prior knowledge about programming. It doesn't matter if you have never written any programs or you have no idea about programming... After my course all of this will change. You will bust the myth that programming is a difficult thing only for the few!   ",
+        "price": "150",
+        "rating": 4.5,
+        "pdfURL":""
+    }
+]
