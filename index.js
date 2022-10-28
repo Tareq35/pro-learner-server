@@ -1,7 +1,9 @@
 const express = require('express')
 const app = express();
+const cors = require('cors');
 const port = process.env.PORT || 5000;
 
+app.use(cors());
 
 const coursesCategory = require('./data/coursesCategory.json');
 const courses = require('./data/courses.json');
@@ -20,4 +22,4 @@ app.get('/courses', (req, res) => {
 
 app.listen(port, () => {
      console.log('Pro Learner server running on port', port);
-    })
+    });
